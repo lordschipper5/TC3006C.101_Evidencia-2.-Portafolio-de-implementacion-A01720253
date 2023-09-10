@@ -34,7 +34,7 @@ Clases: 1 (Sobrevivio), 0 (No sobrevivio)
     - **predicciones.csv** resultados del modelo. 
 
 ### Archivo
-- **Variables seleccionadas en el modelo y su utilidad en el modelo Titanic ETL**: Es el archivo que selecciona las variables a utilizar para los modelos en las carpetas, Explicacada una de las variables seleccionadas en el modelo y su utilidad en el modelo. La explicacion del como funciona el modelo se expresa con comentarios en las implementaciones. Competencias a evaluar SMA0101.
+- **Variables seleccionadas en el modelo y su utilidad en el modelo Titanic ETL**: Es el archivo que selecciona las variables a utilizar para los modelos en las carpetas, Explicacada una de las variables seleccionadas en el modelo y su utilidad en el modelo. La explicacion del como funciona el modelo se expresa con comentarios en las implementaciones. Este archivo es la limpieza y analisis de datos para el dataset de [Titanic](https://www.kaggle.com/competitions/titanic/data?select=test.csv) aqui podras encontrar los archivos y el conjunto de datos original. Competencias a evaluar SMA0101.
 
     
 Nota: La documentacion tecnica de las implementaciones se encuentran dentro de los archivos como comentarios o texto agregado. 
