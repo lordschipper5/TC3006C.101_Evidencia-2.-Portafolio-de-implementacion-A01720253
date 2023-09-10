@@ -25,6 +25,7 @@ Clases: 1 (Sobrevivio), 0 (No sobrevivio)
   - **randomForestClassifierTitanicA01720253SinFramework** codigo en python de la implementacion con sus respectivas metricas.
   -  **train_data.csv** siendo el archivo de entrenamiento.
   -  **split_survived.csv** siendo los datos reales (objetivo) para el entrenamiento.
+  -  **model_results.csv** resultados del modelo. 
 
   
 - **Uso de framework o biblioteca de aprendizaje maquina para la implementacion**: es la carpeta de la implementacion del modelo de **random Forest classifier** con el uso de una biblioteca y framework. Competencias a evaluar SMA0401.
