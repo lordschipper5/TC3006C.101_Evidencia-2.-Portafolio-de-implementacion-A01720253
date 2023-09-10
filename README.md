@@ -32,7 +32,7 @@ Clases: 1 (Sobrevivio), 0 (No sobrevivio)
     - **train_transformed.csv** siendo el archivo de entrenamiento con el atributo survived (el split se hace dentro del codigo).
     - **predicciones.csv** resultados del modelo. 
 
-###Archivo
+### Archivo
 - **Variables seleccionadas en el modelo y su utilidad en el modelo Titanic ETL**: Es el archivo que selecciona las variables a utilizar para los modelos en las carpetas, Explicacada una de las variables seleccionadas en el modelo y su utilidad en el modelo. La explicacion del como funciona el modelo se expresa con comentarios en las implementaciones. Competencias a evaluar SMA0101.
 
     
